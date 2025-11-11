@@ -1,6 +1,6 @@
 # Guacamole
 ## Ingredients
-* avocado
-* lime
-* salt
+* avocado=40nok
+* lime=5nok
+* salt=20nok
 ## Instructions
