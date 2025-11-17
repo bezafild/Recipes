@@ -3,7 +3,8 @@
 * avocado=40nok
 * lemon=5nok
 * salt=20nok
-* onions=25nok
+* red onion=10nkr
+* cherrytomatoes=40kr
 ## Instructions
 * chop the onions
 * squash the avocado
